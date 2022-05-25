@@ -1,0 +1,13 @@
+html, body{
+    background-color: #fff;
+    line-height: 1.75rem;
+}
+img{
+    display: block;
+    max-width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
+p{
+    margin-top: 1rem;
+}
