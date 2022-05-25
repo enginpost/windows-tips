@@ -6,7 +6,10 @@
       {
         "type": "shell",
         "label": "OTU New Page",
-        "command": "bash ./.vscode/hello.sh",
+        "command": "bash ./.vscode/NewPage.sh",
+        "windows":{
+          "command":".\\.vscode\\NewPage.cmd"
+        },
         "problemMatcher": []
       }
     ]
